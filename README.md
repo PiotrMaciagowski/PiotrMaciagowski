@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+# Piotr Maciągowski<br><br>## IT Student | System Administration | Linux | Windows Server | Networking<br><br>IT student focused on system administration, infrastructure engineering and network technologies<br><br>Interested in designing, deploying and maintaining Windows and Linux environments with a focus on infrastructure reliability, security and automation<br><br>## Technical Skills<br><br>**Operating Systems**<br><br>* Windows Server<br>* Windows<br>* Linux<br>* openSUSE<br><br>**System Administration**<br><br>* Active Directory<br>* DNS<br>* DHCP<br>* Group Policy<br>* Samba AD DC<br>* Kerberos<br>* Apache<br>* FTP<br>* SSH<br>* Firewalld<br><br>**Networking**<br><br>* IPv4<br>* DHCP<br>* DNS<br>* NAT<br>* Routing<br>* Network troubleshooting<br>* MikroTik<br><br>**Automation & Tools**<br><br>* PowerShell<br>* Bash<br>* Git<br>* GitHub<br>* VirtualBox<br><br>## Projects<br><br>### Linux Server Infrastructure Lab<br><br>Linux infrastructure environment integrating Samba Active Directory Domain Controller, DNS, DHCP, Kerberos, Apache, FTP and firewall configuration<br><br>### Windows Server Domain & GPO Lab<br><br>Windows Server environment featuring Active Directory, DNS, DHCP, Group Policy, users, groups, organizational units and security restrictions<br><br>### Linux DHCP Internet Lab<br><br>DHCP infrastructure with routing, NAT, firewalld and client internet connectivity<br><br>### Linux DNS Lab<br><br>BIND DNS infrastructure with forward and reverse zones, resolver configuration and firewall integration<br><br>### System Diagnostic Tool<br><br>PowerShell-based diagnostic utility for automated Windows system information collection, storage analysis, network diagnostics, connectivity testing, service validation and system uptime analysis<br><br>## Current Focus<br><br>* Windows Server administration<br>* Linux system administration<br>* Network infrastructure<br>* PowerShell automation<br>* Infrastructure monitoring<br>* Cybersecurity<br>* Infrastructure automation<br><br>## Goal<br><br>Building practical IT infrastructure skills through hands-on laboratory environments, system administration projects and automation<br>
 
-<!--
-**PiotrMaciagowski/PiotrMaciagowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PiotrMaciagowski&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=PiotrMaciagowski&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PiotrMaciagowski&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PiotrMaciagowski&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=PiotrMaciagowski&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
